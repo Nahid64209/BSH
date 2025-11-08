@@ -115,4 +115,5 @@ int main(int argc, char** argv)
     glutMainLoop();
     return 0;
 }
-//poro nahoy moro dwhbihxhsbxhasuhncuodsnbcu
+//poro nahoy ja koro koro
+//jsiojijjacsjs
